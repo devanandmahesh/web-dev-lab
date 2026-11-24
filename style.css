@@ -3,10 +3,10 @@ body {
   max-width: 500px;
   margin: 20px auto;
   padding: 10px;
-  background: #f9f4f400;
+  background: white;
 }
 
-h1 { text-align: center; color: #46bbe500; }
+h1 { text-align: center; color: rgba(114, 67, 5, 0.958); }
 
 input, select, button {
   padding: 8px;
@@ -16,7 +16,7 @@ input, select, button {
 }
 
 button {
-  background: #e59346;
+  background: rgba(114, 67, 5, 0.958);
   color: white;
   border: none;
   cursor: pointer;
