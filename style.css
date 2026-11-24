@@ -3,10 +3,10 @@ body {
   max-width: 500px;
   margin: 20px auto;
   padding: 10px;
-  background: #f4f4f9;
+  background: #f9f4f400;
 }
 
-h1 { text-align: center; color: #46bbe5; }
+h1 { text-align: center; color: #46bbe500; }
 
 input, select, button {
   padding: 8px;
